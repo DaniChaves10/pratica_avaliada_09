@@ -173,7 +173,7 @@ export function Login() {
       <div className="hidden lg:flex items-center justify-center bg-slate-900 overflow-hidden">
 
         <img
-          src="https://ik.imagekit.io/vzr6ryejm/games/login.png"
+          src="https://i.imgur.com/6C49BZQ.jpg"
           alt="Ilustração de jogos"
           className="w-full h-full object-cover"
         />
